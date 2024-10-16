@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Projectile
+  - EnemyProjectile
+  - Shield
+  - ship
+  - asteroid
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - Projectile
+  - EnemyProjectile
+  - Shield
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3361209777
+    locked: 0
+  - name: Level
+    uniqueID: 1534662489
+    locked: 0
+  - name: Player
+    uniqueID: 2400507571
+    locked: 0
+  - name: Objects
+    uniqueID: 2235001211
+    locked: 0
+  - name: General
+    uniqueID: 423052561
+    locked: 0
+  - name: UI
+    uniqueID: 4228413075
+    locked: 0
